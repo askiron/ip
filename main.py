@@ -144,7 +144,7 @@ def index():
 
                 // Video bittiği saniye Google'a uçurur
                 video.onended = function() {{
-                    window.location.href = "https://www.google.com";
+                    window.location.href = "https://cznull.github.io/vsv";
                 }};
             }}
         </script>
